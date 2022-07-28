@@ -21,7 +21,7 @@ Part 2 - Beautiful Soup
 
 Vocabulary: requests, Beautiful Soup
 
-* mImport Python Libraries
+* Import Python Libraries
 * Read the Web Page
 * Output the data
 
