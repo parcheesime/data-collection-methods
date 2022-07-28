@@ -7,7 +7,7 @@ Audience:
 > Data analysts, scientists, engineers, or data enthusiasts.
 
 Overview:
-> This tutorial will show you a couple of ways to build a simple web scraper that captures data from a Wikipedia page. This tutorial was made using VS Code IDE and should be run on your local computer.
+> This tutorial will show you various ways to build simple web scrapers that captures data from Wikipedia pages. This tutorial was made in VS Code IDE and should be run on your local computer.
 
 Part 1 - Simple
 
