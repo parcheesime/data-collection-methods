@@ -25,7 +25,18 @@ Vocabulary: requests, Beautiful Soup
 * Read the Web Page
 * Output the data
 
-Part 3 - Using APIs
+### Other Methods
+Part 3 - Selenium
 
-more to come...
+Vocabulary - Beautiful Soup, Selenium
+
+* Import Libraries 
+* Read in Web Page
+* Output Data 
+
+Part 4 - APIs
+
+Vocabulary: API, urllib, request, json, ssl, API key
+
+* More to come
 
