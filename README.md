@@ -40,3 +40,8 @@ Vocabulary: API, urllib, request, json, ssl, API key
 
 * More to come
 
+### Resources
+
+[Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+
+[Python Docs](https://docs.python.org/3/howto/regex.html)
