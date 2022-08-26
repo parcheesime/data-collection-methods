@@ -14,7 +14,7 @@ Part 1 - Simple
 Vocabulary: web scraper, Python, Pandas, Numpy, Matplotlib
 
 * Import Python Libraries
-* Read the Web Page
+* Read html tables
 * Output the data in a data frame
 
 Part 2 - Beautiful Soup
@@ -22,7 +22,7 @@ Part 2 - Beautiful Soup
 Vocabulary: requests, Beautiful Soup
 
 * Import Python Libraries
-* Read the Web Page
+* Read html
 * Output the data
 
 ### Other Methods
