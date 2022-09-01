@@ -9,6 +9,13 @@ Audience:
 Overview:
 > This tutorial will show you various ways to build simple web scrapers that captures data from Wikipedia pages. This tutorial was made in VS Code IDE and should be run on your local computer.
 
+Prerequisites:
+
+- Basic knowledge of Python 
+- Jupyter Notebook Environment
+- Highly recommended that a virtual environemnt is used.
+
+
 Part 1 - Simple
 
 Vocabulary: web scraper, Python, Pandas, Numpy, Matplotlib
