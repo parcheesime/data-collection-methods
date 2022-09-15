@@ -45,7 +45,8 @@ Part 4 - APIs
 
 Vocabulary: API, urllib, request, json, ssl, API key
 
-* More to come
+* Without Key
+* With Key
 
 ### Resources
 
