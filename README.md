@@ -1,4 +1,6 @@
-﻿# Webscraper Tutorial
+﻿# Data Collection Methods Tutorial
+
+🚧 note: this project is under construction
  
 Purpose of the tutorial: 
 > Show how to automate basic data collection using Python. Prior knowledge of Python is helpful but not necessary to engage in the tutorial.
