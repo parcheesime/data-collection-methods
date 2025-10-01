@@ -1,20 +1,21 @@
 # 🕸️ Introduction to Ethical Web Scraping
 
-This repository contains a short 3–4 lesson unit designed to introduce **young adults** to the concepts, ethics, and techniques of web scraping.  
+This repository contains a short 3–4 lesson unit designed to introduce **new programmers** to the concepts, ethics, and techniques of web scraping.  
 The lessons build on one another: starting with **ethics**, moving into **robots.txt exploration**, then into **basic scraping**, and finishing with **advanced scraping vs. APIs**.
 
+**note** this tutorial is part of HAck for L.A. Data Science CoP, [Create a Guide: Web Scraping issue 130](https://github.com/hackforla/data-science/issues/130#issuecomment-3349383771)
 ---
 
 ## 📚 Lesson Sequence
 
 ### Lesson 1: What is Web Scraping & Why Ethics Matter
 **Objective:**  
-Students understand what web scraping is, why people do it, and the ethical/legal boundaries.
+What web scraping is, why people do it, and the ethical/legal boundaries.
 
 **Content:**
-- Define scraping vs. APIs vs. manual data collection.
-- Discuss positive uses (e.g., research, open data, personal projects) vs. harmful uses (e.g., data theft, crashing servers, copyright violation).
-- Walkthrough examples:  
+- Scraping vs. APIs vs. manual data collection.
+- Positive uses (e.g., research, open data, personal projects) vs. harmful uses (e.g., data theft, crashing servers, copyright violation).
+- Examples:  
   - ✅ *Good*: scraping prices for a personal budget project.  
   - ❌ *Bad*: scraping copyrighted books to repost.
 
@@ -22,7 +23,7 @@ Students understand what web scraping is, why people do it, and the ethical/lega
 
 ### Lesson 2: Reading & Respecting Websites (robots.txt)
 **Objective:**  
-Students learn how to check if scraping is permitted on a site.
+Learn how to check if scraping is permitted on a site.
 
 **Content:**
 - Introduce `robots.txt` files and how to find them.  
@@ -30,14 +31,14 @@ Students learn how to check if scraping is permitted on a site.
 - Discuss why respecting these rules is important for ethics and legality.
 
 **Activity:**  
-- Students look up `robots.txt` on a few websites and determine what can/cannot be scraped.  
+- Look up `robots.txt` on a few websites and determine what can/cannot be scraped.  
 - Example: `https://www.wikipedia.org/robots.txt`
 
 ---
 
 ### Lesson 3: Basic Scraping Techniques
 **Objective:**  
-Students learn to scrape simple data responsibly.
+Learn to scrape simple data responsibly.
 
 **Content:**
 - Intro to `requests` + `BeautifulSoup` (or `pandas.read_html`).  
@@ -53,7 +54,7 @@ Students learn to scrape simple data responsibly.
 
 ### Lesson 4: Advanced Web Scraping Techniques
 **Objective:**  
-Students explore challenges and solutions when scraping modern, complex websites.
+Explore challenges and solutions when scraping modern, complex websites.
 
 **Content:**
 - **JavaScript-Rendered Pages**: using Selenium/Playwright or finding hidden JSON.  
@@ -71,7 +72,7 @@ Students explore challenges and solutions when scraping modern, complex websites
 
 ### Lesson 5: When to Scrape vs. Use an API
 **Objective:**  
-Students compare scraping to using an official API and reflect on which is more ethical and efficient.
+Compare scraping to using an official API and reflect on which is more ethical and efficient.
 
 **Content:**
 - APIs are structured, permitted, and stable.  
@@ -80,8 +81,8 @@ Students compare scraping to using an official API and reflect on which is more 
 - Ethics: prefer APIs when available, scrape responsibly only if allowed.
 
 **Activity:**  
-- Students scrape headlines from a site.  
+- Scrape headlines from a site.  
 - Then use an API to get similar data.  
-- Reflection: Which method is easier? Which is more ethical?
+- Questions: Which method is easier? Which is more ethical?
 
 ---
